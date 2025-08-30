@@ -19,7 +19,7 @@
             padding-bottom: 0.5rem;
             margin-bottom: 2.5rem;
             font-size: 2.5rem;
-            font-weight: 700;
+            font-weight: 700; 
             color: #047857;
         }
         .section-heading::after {
